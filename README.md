@@ -146,6 +146,10 @@ Lütfen kod tarzı için PEP 8 kurallarına uyun ve değişikliklerinizi açıkl
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasını inceleyin.
 
+## Proje Görüntüleme Sayısı
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=wasetrox&repo=discord-advanced-token-checker&label=Görüntüleme)](https://github.com/wasetrox/instagram-stalk)
+
 ## İletişim 📬
 
 Sorularınız veya önerileriniz için Discord’dan [wasetrox](https://discord.com/users/312062402273345537)’a ulaşabilirsiniz! 😊
